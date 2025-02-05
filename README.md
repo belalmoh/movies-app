@@ -7,7 +7,7 @@ A simple application to search for movies and view their details integrated with
 Inspired by [The Movie Application](https://github.com/adrianhajdin/react-movies/tree/main).
 
 ## Screenshot of the application
-![App screenshot](app-screenshot.png)
+![App screenshot](./app-screenshot.png)
 
 ## Technologies used
 - React
