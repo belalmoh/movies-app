@@ -24,7 +24,9 @@ git clone https://github.com/belalmoh/movies-app.git
 ```bash
 npm install
 ```
-3. Start the app
+3. Rename `.env.example` to `.env`
+4. Fill in the required values in `.env`
+5. Start the app
 ```bash
 npm start
-```# movies-app
+```
